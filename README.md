@@ -33,3 +33,5 @@
 16. [Node.js开发指南](https://gitee.com/liuvigongzuoshi/reading-list/raw/master/book/Node.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf).pdf
 
 17. [深入浅出Node.js](https://gitee.com/liuvigongzuoshi/reading-list/raw/master/book/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf).pdf
+
+18. [a-programmer-prepares](https://gitee.com/liuvigongzuoshi/reading-list/raw/master/book/a-programmer-prepares.pdf).pdf
