@@ -35,3 +35,5 @@
 17. [深入浅出Node.js](https://gitee.com/liuvigongzuoshi/reading-list/raw/master/book/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf).pdf
 
 18. [a-programmer-prepares](https://gitee.com/liuvigongzuoshi/reading-list/raw/master/book/a-programmer-prepares.pdf).pdf
+
+19. [python 爬虫总结 路人甲](https://gitee.com/liuvigongzuoshi/reading-list/raw/master/book/python%20%E7%88%AC%E8%99%AB%E6%80%BB%E7%BB%93%20%E8%B7%AF%E4%BA%BA%E7%94%B2.pdf).pdf
