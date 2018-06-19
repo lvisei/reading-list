@@ -38,4 +38,6 @@
 
 19. [a-programmer-prepares](book/a-programmer-prepares.pdf)
 
-20. [python爬虫总结路人甲](book/[python爬虫总结路人甲.pdf)
+20. [python爬虫总结路人甲](book/python爬虫总结路人甲.pdf)
+
+21. [Python编程：从入门到实践](book/Python编程：从入门到实践.pdf)
