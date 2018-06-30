@@ -41,3 +41,5 @@
 20. [python爬虫总结路人甲](book/python爬虫总结路人甲.pdf)
 
 21. [Python编程：从入门到实践](book/Python编程：从入门到实践.pdf)
+
+22. [算法图解](book/算法图解.pdf) 
