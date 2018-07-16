@@ -42,4 +42,8 @@
 
 21. [Python编程：从入门到实践](book/Python编程：从入门到实践.pdf)
 
-22. [算法图解](book/算法图解.pdf) 
+22. [算法图解](book/算法图解.pdf)
+
+23. [啊哈!算法](book/啊哈!算法.pdf)
+
+24. [你不知道的JavaScript（上卷）](book/你不知道的JavaScript（上卷）.pdf)
