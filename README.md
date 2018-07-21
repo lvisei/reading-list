@@ -1,4 +1,5 @@
-# Reading List
+# List of Reading Book
+> This page is available as an easy-to-read [website](https://liuvigongzuoshi.github.io/reading-list/)
 
 ## Language related
 
