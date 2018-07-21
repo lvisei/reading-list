@@ -8,7 +8,7 @@
 
 ### Node
 
-* [深入浅出Node.js](book/Language-related/Node/深入浅出Node.js.pdf) - 深入浅出Node
+* [深入浅出Node.js](book/Language-related/Node/深入浅出Node.js.pdf) - 🎈深入浅出Node - 朴灵，📌[NOTE](/notes/深入浅出Node.js/)
 * [Node.js开发指南](book/Language-related/Node/[Node.js开发指南.pdf)
 
 ### Python
