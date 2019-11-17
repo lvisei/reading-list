@@ -1,6 +1,12 @@
 ## List of Reading Book
 > This page is available as an easy-to-read [website](https://liuvigongzuoshi.github.io/reading-list/)
 
+🎈 Reading
+
+🚩 Have read
+
+📌 Note
+
 ## Categories
 - [List of Reading Book](#list-of-reading-book)
 - [Categories](#categories)
@@ -24,10 +30,10 @@
 ## Language related
 
 ### JavaScript
-* [你不知道的JavaScript（上卷）](book/Language-related/Javascript/你不知道的JavaScript（上卷）.pdf)
+* [你不知道的JavaScript（上卷）](book/Language-related/Javascript/你不知道的JavaScript（上卷）.pdf) 🎈
 
 ### Node
-* [深入浅出Node.js](book/Language-related/Node/深入浅出Node.js.pdf) - 🎈深入浅出Node - 朴灵，📌[NOTE](/notes/深入浅出Node.js/)
+* [深入浅出Node.js](book/Language-related/Node/深入浅出Node.js.pdf) - 深入浅出Node - 朴灵 🚩，📌[NOTE](/notes/深入浅出Node.js/)
 * [Node.js开发指南](book/Language-related/Node/[Node.js开发指南.pdf)
 
 ### Python
@@ -43,6 +49,7 @@
 
 ### Go
 * [学习Go语言](book/Language-related/Go/学习Go语言.pdf) - 学习Go的入门书籍
+* [Go语言圣经](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版 🎈
 
 ### Kotlin
 * [kotlin-in-chinese](book/Language-related/kotlin-in-chinese.pdf) - Kotlin中文文档
@@ -72,7 +79,7 @@
   * [Leetcode](book/Algorithms-and-Data-Structures/Other/leetcode-solution.pdf) - Leetcode题解
 
 ## Linux
-* [鸟哥的Linux私房菜](《鸟哥的Linux私房菜-基础篇》第四版.pdf) - 鸟哥的Linux私房菜-基础篇第四版
+* [鸟哥的Linux私房菜](《鸟哥的Linux私房菜-基础篇》第四版.pdf) - 鸟哥的Linux私房菜-基础篇第四版 🎈
 
 ## Other
 * [机器学习实战](book/Other/机器学习实战.pdf)
