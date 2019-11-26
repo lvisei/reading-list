@@ -40,15 +40,12 @@
 * [Python编程：从入门到实践](book/Language-related/Python/Python编程：从入门到实践.pdf)  🎈
 ### Java
 * [Java 从小白到大牛](book/Language-related/Java/Java从小白到大牛精简版.pdf) - Java 入门
-* [Effective Java](book/Language-related/Java/Effective+Java+中文第二版.pdf) - Java 进阶必备
-* [Java 数据结构和算法](book/Language-related/Java/Java数据结构和算法.（第二版）.pdf) 
+* [Effective Java](https://book.douban.com/subject/3360807/) - Java 进阶必备
+* [Java 数据结构和算法](https://book.douban.com/subject/1144007/) 
 
 ### Go
-* [学习Go语言](book/Language-related/Go/学习Go语言.pdf) - 学习Go的入门书籍 🚩2019
+* [学习Go语言](https://mikespook.com/learning-go/) - 学习Go的入门书籍 🚩2019
 * [Go语言圣经](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版 🎈
-
-### Dart
-* [Dart](https://dart.dev/)
 
 ## Language independent
 
@@ -76,7 +73,7 @@
 * [鸟哥的Linux私房菜](《鸟哥的Linux私房菜-基础篇》第四版.pdf) - 鸟哥的Linux私房菜-基础篇第四版 🎈
 
 ## Machine Learning
-* [机器学习实战](book/Other/机器学习实战.pdf)
+* [机器学习实战](https://book.douban.com/subject/24703171/)
 
 ## Magazine
 * [Linux basis]( book / Other / Linux basis gitbook.pdf) - Linux 入门基础 🚩2018
