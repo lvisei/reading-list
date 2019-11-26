@@ -30,18 +30,20 @@
 ## Language related
 
 ### JavaScript
-* [你不知道的JavaScript（上卷）](book/Language-related/Javascript/你不知道的JavaScript（上卷）.pdf) 🎈
+* [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/) 🎈
 
 ### Node
-* [深入浅出Node.js](book/Language-related/Node/深入浅出Node.js.pdf) - 深入浅出Node - 朴灵 🚩2018，📌[NOTE](/notes/深入浅出Node.js/)
-* [Node.js开发指南](book/Language-related/Node/[Node.js开发指南.pdf)
+* [深入浅出Node.js](https://book.douban.com/subject/25768396/) - 深入浅出Node - 朴灵 🚩2018，📌[NOTE](/notes/深入浅出Node.js/)
+* [Node.js开发指南](https://book.douban.com/subject/10789820/)
 
 ### Python
-* [Python编程：从入门到实践](book/Language-related/Python/Python编程：从入门到实践.pdf)  🎈
+* [Python编程：从入门到实践](https://book.douban.com/subject/26829016/)  🎈
+
 ### Java
-* [Java 从小白到大牛](book/Language-related/Java/Java从小白到大牛精简版.pdf) - Java 入门
-* [Effective Java](https://book.douban.com/subject/3360807/) - Java 进阶必备
-* [Java 数据结构和算法](https://book.douban.com/subject/1144007/) 
+* ~~[Java 从小白到大牛](https://github.com/tonyguan/java1) - Java 入门~~
+
+* ~~[Effective Java](https://book.douban.com/subject/3360807/) - Java 进阶必备~~
+* ~~[Java 数据结构和算法](https://book.douban.com/subject/1144007/)~~
 
 ### Go
 * [学习Go语言](https://mikespook.com/learning-go/) - 学习Go的入门书籍 🚩2019
@@ -51,11 +53,11 @@
 
 ### 编程艺术
 * [代码整洁之道](https://book.douban.com/subject/4199741/)
-* [重构_改善既有代码的设计](book/Language-independent/编程艺术/重构_改善既有代码的设计.pdf)
+* [重构_改善既有代码的设计](https://book.douban.com/subject/4262627/)
 
 ### 程序员杂谈
-* [a-programmer-prepares](book/Language-independent/程序员杂谈/a-programmer-prepares.pdf) 🎈
-* [How to be a programmer](book/Language-independent/程序员杂谈/how-to-be-a-programmer-cn.pdf)
+* [a-programmer-prepares](https://pan.baidu.com/s/1O8QoW89zZjCLmbBbbb8qPw) 🎈
+* [How to be a programmer](https://pan.baidu.com/s/1af7GIQYzx7L1GUDFUQwfDQ)
 
 ### 版本控制
 * [ProGit2](https://git-scm.com/book/zh/v2) - ProGit 中文版
@@ -63,19 +65,19 @@
 ## Algorithms and Data Structures
 
 ### 算法
-* [算法图解](book/Algorithms-and-Data-Structures/算法/算法图解.pdf)
-* [啊哈!算法](book/Algorithms-and-Data-Structures/算法/啊哈!算法.pdf)
+* [算法图解](https://book.douban.com/subject/26979890/)
+* [啊哈!算法](https://book.douban.com/subject/25894685/)
 
 ### Other
-  * [Leetcode](book/Algorithms-and-Data-Structures/Other/leetcode-solution.pdf) - Leetcode题解
+* [Leetcode](https://pan.baidu.com/s/1sBQBPz4Etjfeaasl-5z3Yw) - Leetcode题解
 
 ## Linux
-* [鸟哥的Linux私房菜](《鸟哥的Linux私房菜-基础篇》第四版.pdf) - 鸟哥的Linux私房菜-基础篇第四版 🎈
+* [鸟哥的Linux私房菜](https://book.douban.com/subject/30359954/) - 鸟哥的Linux私房菜-基础篇第四版 🎈
 
 ## Machine Learning
 * [机器学习实战](https://book.douban.com/subject/24703171/)
 
 ## Magazine
-* [Linux basis]( book / Other / Linux basis gitbook.pdf) - Linux 入门基础 🚩2018
+* [Linux basis](https://pan.baidu.com/s/1qPWAfOhomC-vRq6CuBEEFQ) - Linux 入门基础 🚩2018
 * [javascriptmagazine](https://1000copy.gitbooks.io/javascriptmagazine/content/) 🚩2018
-* [精通比特币](book/Other/精通比特币.pdf) - 从技术的角度更深刻的认识比特币
+* [精通比特币](https://pan.baidu.com/s/1jpuRiOd_zw3SZ8MRHjf31Q) - 从技术的角度更深刻的认识比特币
