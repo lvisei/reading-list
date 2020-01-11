@@ -18,6 +18,7 @@
   - [Java](#java)
   - [Go](#go)
 - [Language independent](#language-independent)
+  - [Full stack](#Full stack) 
   - [编程艺术](#%e7%bc%96%e7%a8%8b%e8%89%ba%e6%9c%af)
   - [程序员杂谈](#%e7%a8%8b%e5%ba%8f%e5%91%98%e6%9d%82%e8%b0%88)
   - [版本控制](#%e7%89%88%e6%9c%ac%e6%8e%a7%e5%88%b6)
@@ -27,7 +28,7 @@
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magazine](#magazine)
-  
+- [Non-technical](#Non-technical)
 ## Language related
 
 ### JavaScript
@@ -35,6 +36,7 @@
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/) 🚩
 
 * [你不知道的JavaScript（上卷）](https://book.douban.com/subject/26351021/) 🎈
+* [PWA实战：面向下一代的Progressive Web APP](https://item.jd.com/12365091.html) 🎈
 
 #### TypeScript
 
@@ -66,7 +68,15 @@
 * [Go语言圣经](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版 🎈
 * [Go语言101](https://github.com/golang101/golang101)
 
+### Dart
+
+#### Flutter
+* [Flutter 实战](https://book.flutterchina.club/) 🚩 2019
+
 ## Language independent
+
+### Full stack
+* [全栈应用开发：精益实践](https://book.douban.com/subject/27044427/) 🎈
 
 ### 编程艺术
 * [代码整洁之道](https://book.douban.com/subject/4199741/)
@@ -93,12 +103,17 @@
 
 ## Machine Learning
 * [机器学习实战](https://book.douban.com/subject/24703171/)
-* [动手学深度学习](https://github.com/d2l-ai/d2l-zh) - 英文版即伯克利“深度学习导论”教材
+* [动手学深度学习](https://github.com/d2l-ai/d2l-zh) - 英文版即伯克利“深度学习导论”教材🎈
 * [机器学习](https://book.douban.com/subject/26708119/) - 机器学习周志华
+* [TensorFlow+PyTorch深度学习从算法到实战](https://item.jd.com/12566137.html)🎈
 
 ## Magazine
 * [Linux basis](https://pan.baidu.com/s/1qPWAfOhomC-vRq6CuBEEFQ) - Linux 入门基础 🚩2018
 * [javascriptmagazine](https://1000copy.gitbooks.io/javascriptmagazine/content/) 🚩2018
 * [React.js 小书](https://github.com/huzidaha/react-naive-book) 🚩 2019
-* [Flutter 实战](https://book.flutterchina.club/) 🚩 2019
 * [精通比特币](https://pan.baidu.com/s/1jpuRiOd_zw3SZ8MRHjf31Q) - 从技术的角度更深刻的认识比特币
+
+## Non-technical
+
+- [黑客与画家](https://book.douban.com/subject/6021440/)🎈
+- [未来简史](https://book.douban.com/subject/26943161/)🎈
