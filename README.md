@@ -17,6 +17,7 @@
   - [Python](#python)
   - [Java](#java)
   - [Go](#go)
+  - [Dart](#Dart)
 - [Language independent](#language-independent)
   - [Full stack](#Full stack) 
   - [编程艺术](#%e7%bc%96%e7%a8%8b%e8%89%ba%e6%9c%af)
@@ -92,7 +93,7 @@
 ## Algorithms and Data Structures
 
 ### 算法
-* [算法图解](https://book.douban.com/subject/26979890/)
+* [算法图解](https://book.douban.com/subject/26979890/) 🎈
 * [啊哈!算法](https://book.douban.com/subject/25894685/)
 
 ### Other
