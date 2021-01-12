@@ -46,8 +46,8 @@
 * [学习Go语言](https://mikespook.com/learning-go/) - 学习Go的入门书籍 🚩2019
 * [The Way to Go](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本 🎈
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) 🚩2019
-* [Go语言实战](https://book.douban.com/subject/27015617/) 🎈
-* [Go语言圣经](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版 🎈
+* [Go语言实战](https://book.douban.com/subject/27015617/) 🚩2020
+* [Go语言圣经](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版 🚩2020
 * [Go语言101](https://github.com/golang101/golang101)
 
 ### Dart
@@ -59,7 +59,9 @@
 
 ## Language independent
 
-### WebGL
+### Canvas & WebGL
+
+- [TypeScript图形渲染实战：2D架构设计与实现](https://book.douban.com/subject/31365348/) 🎈
 
 - [WebGL编程指南](https://book.douban.com/subject/25909351/) 🎈
 - [交互式计算机图形学  基于WEBGL的自顶向下方法  第7版](https://book.douban.com/subject/26916420/)
